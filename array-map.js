@@ -19,7 +19,7 @@ for(const element of array){
 With ES6 array map function, 
 1. loop through the array element
 2. for each element call the provided function
-3. Result for each element will be stored in the array
+3. Result for each element will be stored in the ""array""
 */
 
 
